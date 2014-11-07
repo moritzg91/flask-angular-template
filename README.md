@@ -13,3 +13,8 @@
 - Bower
 - Grunt
 - Karma (Unit testing)
+
+#### Setup
+
+npm install
+mkvirtualenv flask-angular-template
