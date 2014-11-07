@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('contribMapsApp', [
+angular.module('templateApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
